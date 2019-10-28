@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cryptocurrencies</string>
+    <string name="error_description">Иконка ошибки</string>
+    <string name="error_text">Ошибка. Попробуйте загрузить данные снова</string>
+    <string name="volume_24h">Объём за 24 часа:</string>
+    <string name="market_cap">Рыночная капитализация:</string>
+    <string name="logo_desc">Currency logo</string>
+</resources>
